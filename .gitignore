@@ -1,0 +1,4 @@
+.venv/
+duckdb/fit.db
+.cache_fbref/
+__pycache__/

@@ -1,0 +1,8 @@
+positions:
+  ST:   {pass_prog: 0.10, carry_prog: 0.15, xg_xa: 0.35, takeon: 0.15, press: 0.15, def_duels: 0.05, aerials_win_pct: 0.05, final_third_entries: 0.00}
+  W:    {pass_prog: 0.10, carry_prog: 0.20, xg_xa: 0.25, takeon: 0.25, press: 0.10, def_duels: 0.05, aerials_win_pct: 0.05, final_third_entries: 0.00}
+  AM:   {pass_prog: 0.25, carry_prog: 0.20, xg_xa: 0.20, takeon: 0.10, press: 0.10, def_duels: 0.10, aerials_win_pct: 0.05, final_third_entries: 0.00}
+  CM:   {pass_prog: 0.25, carry_prog: 0.20, xg_xa: 0.20, takeon: 0.10, press: 0.10, def_duels: 0.10, aerials_win_pct: 0.05, final_third_entries: 0.00}
+  DM:   {pass_prog: 0.25, carry_prog: 0.15, xg_xa: 0.05, takeon: 0.05, press: 0.15, def_duels: 0.25, aerials_win_pct: 0.10, final_third_entries: 0.00}
+  FB:   {pass_prog: 0.15, carry_prog: 0.20, xg_xa: 0.10, takeon: 0.15, press: 0.15, def_duels: 0.15, aerials_win_pct: 0.10, final_third_entries: 0.00}
+  CB:   {pass_prog: 0.20, carry_prog: 0.10, xg_xa: 0.00, takeon: 0.05, press: 0.05, def_duels: 0.35, aerials_win_pct: 0.25, final_third_entries: 0.00}

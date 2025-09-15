@@ -1,0 +1,6 @@
+team_vector_order: [poss_pct, prog_passes, prog_carries, crosses_box, throughballs, press_intensity, aerials_win_pct]
+player_vector_order: [pass_prog, carry_prog, xg_xa, takeon, press, def_duels, aerials_win_pct, final_third_entries]
+minutes_threshold: 900
+zscore_by:
+  team: [league, season]
+  player: [league, season, primary_pos]

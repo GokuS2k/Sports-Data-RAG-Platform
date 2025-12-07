@@ -1,0 +1,2 @@
+-- SQL schema for sports_rag DuckDB
+-- Define tables here

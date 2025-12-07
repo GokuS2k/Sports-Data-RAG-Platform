@@ -1,10 +1,21 @@
 # Python caches
 __pycache__/
 *.py[cod]
+*.pyc
+*.pyo
 
 # Environments
 .env
 *.env
+venv/
+env/
+ENV/
+
+# DuckDB database files (binary, should not be committed)
+*.duckdb
+*.duckdb.wal
+backend/db/*.duckdb
+backend/db/*.duckdb.wal
 
 # Data files
 /data/duckdb/*
@@ -15,3 +26,12 @@ __pycache__/
 # VSCode settings
 .vscode/
 
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
